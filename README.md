@@ -1,4 +1,4 @@
-Ecommerce App React JS and Redux with Fetch API
+Ecommerce App Bootstrap React JS and Redux with Fetch API
 ![WhatsApp Image 2022-09-20 at 22 52 05](https://user-images.githubusercontent.com/99664429/191354700-8dcd32fe-8d19-4237-94e8-ef6987f06f2d.jpeg)
 ![WhatsApp Image 2022-09-20 at 22 52 21](https://user-images.githubusercontent.com/99664429/191354691-612ebce4-3710-425d-b5b0-0305e81dfc00.jpeg)
 
